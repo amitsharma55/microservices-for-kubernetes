@@ -3,6 +3,11 @@ This repository contains application source code for microservices, Kubernetes m
 
 ![Alt text](./images/deploy-microservices-to-eks.png?raw=true "Deploy Microservices to Amazon EKS diagram")
 
+## Related Articles
+For a detailed step-by-step walkthrough, check out these LinkedIn posts:
+- [Kubernetes, AWS & Ingress Controller](https://www.linkedin.com/posts/amit-kumar-3b507031_kubernetes-aws-ingresscontroller-activity-7300044516521058304-QwQJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAaYCTkBjzkyJxx5wQPlePvTlN9AU0h8F1k)
+- [AWS EKS & Microservices](https://www.linkedin.com/posts/amit-kumar-3b507031_aws-eks-microservices-activity-7297406287548493824-2IsV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAaYCTkBjzkyJxx5wQPlePvTlN9AU0h8F1k)
+
 ## About the Microservices
 The applications used for demonstrative purposes are `Orders` and `Products`. The applications are written in JavaScript (NodeJS based APIs). The Orders API returns a list of orders, whereas the products API returns a list of products.
 
